@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0D1117;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#161B22;stop-opacity:1"/>
+    </linearGradient>
+
+    <!-- Text Gradient -->
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#F1F5F9"/>
+      <stop offset="50%" style="stop-color:#CBD5E1"/>
+      <stop offset="100%" style="stop-color:#94A3B8"/>
+    </linearGradient>
+
+    <!-- Accent Line Gradient -->
+    <linearGradient id="accentLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#6366F1;stop-opacity:0"/>
+      <stop offset="50%" style="stop-color:#818CF8;stop-opacity:0.5"/>
+      <stop offset="100%" style="stop-color:#6366F1;stop-opacity:0"/>
+    </linearGradient>
+
+    <!-- Ambient Glow -->
+    <radialGradient id="ambientGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#6366F1;stop-opacity:0.06"/>
+      <stop offset="100%" style="stop-color:#6366F1;stop-opacity:0"/>
+    </radialGradient>
+
+    <!-- Filters -->
+    <filter id="textShadow">
+      <feDropShadow dx="0" dy="1" stdDeviation="3" flood-color="#000000" flood-opacity="0.4"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="500" fill="url(#bgGrad)"/>
+
+  <!-- Subtle Grid -->
+  <g opacity="0.04">
+    <defs>
+      <pattern id="grid" width="50" height="50" patternUnits="userSpaceOnUse">
+        <path d="M 50 0 L 0 0 0 50" fill="none" stroke="#475569" stroke-width="0.5"/>
+      </pattern>
+    </defs>
+    <rect width="800" height="500" fill="url(#grid)"/>
+  </g>
+
+  <!-- Ambient Glow -->
+  <ellipse cx="400" cy="250" rx="280" ry="120" fill="url(#ambientGlow)">
+    <animate attributeName="opacity" values="0.6;1;0.6" dur="6s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <!-- Corner Marks -->
+  <g opacity="0.2" stroke="#818CF8" stroke-width="1.2" fill="none">
+    <path d="M 50 40 L 50 65"/>
+    <path d="M 50 40 L 75 40"/>
+    <path d="M 750 40 L 750 65"/>
+    <path d="M 750 40 L 725 40"/>
+    <path d="M 50 460 L 50 435"/>
+    <path d="M 50 460 L 75 460"/>
+    <path d="M 750 460 L 750 435"/>
+    <path d="M 750 460 L 725 460"/>
+  </g>
+
+  <!-- Top Accent Line -->
+  <line x1="280" y1="185" x2="520" y2="185" stroke="url(#accentLine)" stroke-width="1">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="5s" repeatCount="indefinite"/>
+  </line>
+
+  <!-- Name - centered at 400,250 with baseline adjustment -->
+  <text x="400" y="268" text-anchor="middle" font-family="'Inter', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="120" font-weight="700" fill="url(#textGrad)" filter="url(#textShadow)" letter-spacing="14">
+    Naman
+  </text>
+
+  <!-- Bottom Accent Line -->
+  <line x1="250" y1="298" x2="550" y2="298" stroke="url(#accentLine)" stroke-width="1">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="5s" repeatCount="indefinite"/>
+  </line>
+</svg>
