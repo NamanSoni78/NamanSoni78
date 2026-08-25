@@ -1,17 +1,19 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&duration=1800&pause=6800&center=true&vCenter=true&repeat=true&random=false&width=435&lines=Naman+Soni)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&weight=600\&size=36\&duration=1800\&pause=6800\&center=true\&vCenter=true\&repeat=true\&random=false\&width=435\&lines=Naman+Soni)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=1800&pause=5000&color=94A3B8&background=FFFFFF00&center=true&vCenter=true&repeat=true&random=false&width=435&lines=Building+things+I+find+interesting)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&weight=500\&duration=1800\&pause=5000\&color=94A3B8\&background=FFFFFF00\&center=true\&vCenter=true\&repeat=true\&random=false\&width=435\&lines=Building+things+I+find+interesting)](https://git.io/typing-svg)
 
 </div>
 
 <!-- ===== ANIMATED DIVIDER ===== -->
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=1&section=header&animation=fadeIn" width="100%" alt="">
 </div>
 
 <!-- ===== ABOUT ME SECTION ===== -->
+
 <h2 align="center">About Me</h2>
 
 <table align="center">
@@ -24,7 +26,7 @@
         <em>"I don't follow a roadmap — I follow my curiosity."</em>
       </blockquote>
       <p align="center">
-        <strong>Currently building:</strong> LND AI, New Era, MONYX Studio & Onyx
+        <strong>Currently building:</strong> LND AI, New Era, MONYX Studio, Onyx & Talk
         <br>
         <strong>Exploring:</strong> Agentic AI, WebAssembly, browser-based compute
         <br>
@@ -37,6 +39,7 @@
 </table>
 
 <!-- ===== PROJECTS SECTION ===== -->
+
 <h2 align="center">Projects</h2>
 
 <table align="center">
@@ -60,6 +63,7 @@
       </a>
     </td>
   </tr>
+
   <tr>
     <td width="50%" align="center" valign="top">
       <a href="https://monyx.namansoni.in/">
@@ -80,10 +84,21 @@
       </a>
     </td>
   </tr>
+
+  <tr>
+    <td colspan="2" align="center" valign="top">
+      <a href="https://talk.namansoni.in/">
+        <h3>💬 Talk</h3>
+      </a>
+      <p>Free online chat with AI companions who remember you. Live inside interactive stories and shape how every story ends — your choices matter.</p>
+      <a href="https://talk.namansoni.in/">
+        <img src="https://img.shields.io/badge/Visit-talk.namansoni.in-8B5CF6?style=for-the-badge&logoColor=white" alt="Talk">
+      </a>
+    </td>
+  </tr>
 </table>
 
 <!-- ===== CONNECT SECTION ===== -->
-
 
 <h2 align="center">Let's Connect</h2>
 
@@ -119,5 +134,5 @@
 <a href="https://namansoni.in/">
   <img src="https://img.shields.io/badge/LND-Learn_%26_Develop-818CF8?style=for-the-badge&logo=readthedocs&logoColor=white" alt="LND"> 
 </a> 
- 
+
 </div>
