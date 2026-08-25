@@ -90,8 +90,7 @@
       <a href="https://talk.namansoni.in/">
         <h3>💬 Talk</h3>
       </a>
-      <p>Free online chat with AI companions who remember you. Live inside interactive stories and shape how every story ends —
-        your choices matter.</p>
+      <p>Free online chat with AI companions who remember you. Live inside interactive stories and shape how every story ends — your choices matter.</p>
       <a href="https://talk.namansoni.in/">
         <img src="https://img.shields.io/badge/Visit-talk.namansoni.in-8B5CF6?style=for-the-badge&logoColor=white" alt="Talk">
       </a>
