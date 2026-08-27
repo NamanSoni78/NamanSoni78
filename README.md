@@ -20,7 +20,7 @@
   <tr>
     <td>
       <p align="center">
-        Hey, I'm <strong>Naman Soni</strong> — an explorer who builds whatever sparks my curiosity. I'm not a professional full-stack developer; I'm a tinkerer who chases ideas from AI agents to browser-based tools and brings them to life.
+        Hey, I'm <strong>Naman Soni</strong> — an explorer who builds whatever sparks my curiosity. I'm not a professional full-stack developer; I simply like turning ideas into real things — from AI and software to creative experiments and whatever else catches my attention.
       </p>
       <blockquote align="center">
         <em>"I don't follow a roadmap — I follow my curiosity."</em>
