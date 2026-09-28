@@ -26,7 +26,7 @@
         <em>"I don't follow a roadmap — I follow my curiosity."</em>
       </blockquote>
       <p align="center">
-        <strong>Currently building:</strong> LND AI, New Era, MONYX Studio, Onyx & Talk
+        <strong>Currently building:</strong> LND AI, New Era, MONYX Studio, Onyx, Talk & Gaana Banana
         <br>
         <strong>Exploring:</strong> Agentic AI, WebAssembly, browser-based compute
         <br>
@@ -86,13 +86,22 @@
   </tr>
 
   <tr>
-    <td colspan="2" align="center" valign="top">
+    <td width="50%" align="center" valign="top">
       <a href="https://talk.namansoni.in/">
         <h3>💬 Talk</h3>
       </a>
       <p>Free online chat with AI companions who remember you. Live inside interactive stories and shape how every story ends — your choices matter.</p>
       <a href="https://talk.namansoni.in/">
         <img src="https://img.shields.io/badge/Visit-talk.namansoni.in-8B5CF6?style=for-the-badge&logoColor=white" alt="Talk">
+      </a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://gaana.namansoni.in/">
+        <h3>🎵 Gaana Banana</h3>
+      </a>
+      <p>AI se apna gaana banaiye — turn a name and an occasion into a full song with vocals in under 2 minutes. Perfect gift for birthdays, anniversaries, yaari & family moments.</p>
+      <a href="https://gaana.namansoni.in/">
+        <img src="https://img.shields.io/badge/Visit-gaana.namansoni.in-22C55E?style=for-the-badge&logoColor=white" alt="Gaana Banana">
       </a>
     </td>
   </tr>
