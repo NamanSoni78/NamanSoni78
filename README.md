@@ -5,7 +5,21 @@
 
 <h2 align="center">Projects</h2>
 
-<table align="center">
+<table align="center" width="100%">
+  <!-- Full-width Links Profile -->
+  <tr>
+    <td colspan="2" width="100%" align="center" valign="top">
+      <a href="https://links.namansoni.in/namansoni78">
+        <h3>🤖 See My All Live Projects At Links Profile</h3>
+      </a>
+      <p>This is My Links Profile, Where I Place Links of all of my Live Projects</p>
+      <a href="https://links.namansoni.in/namansoni78">
+        <img src="https://img.shields.io/badge/Visit-links.namansoni.in/namansoni78-6366F1?style=for-the-badge&logoColor=white" alt="Links Profile">
+      </a>
+    </td>
+  </tr>
+
+  <!-- Row 2: Two columns -->
   <tr>
     <td width="50%" align="center" valign="top">
       <a href="https://namansoni.in/">
@@ -27,6 +41,7 @@
     </td>
   </tr>
 
+  <!-- Row 3: Two columns -->
   <tr>
     <td width="50%" align="center" valign="top">
       <a href="https://monyx.namansoni.in/">
@@ -48,6 +63,7 @@
     </td>
   </tr>
 
+  <!-- Row 4: Two columns -->
   <tr>
     <td width="50%" align="center" valign="top">
       <a href="https://talk.namansoni.in/">
