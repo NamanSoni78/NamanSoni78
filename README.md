@@ -1,6 +1,6 @@
 <div align="center">
 
-![Naman Soni — Curious Builder](https://links.namansoni.in/api/embed/github-readme?v=zo0r )
+![Naman Soni — Curious Builder](https://links.namansoni.in/api/embed/github-readme?v=zo0r)
 <!-- ===== PROJECTS SECTION =====  -->
 
 <h2 align="center">Projects</h2>
